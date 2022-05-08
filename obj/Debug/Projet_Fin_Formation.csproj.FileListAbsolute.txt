@@ -1,0 +1,649 @@
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\csc.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\csc.rsp
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\csi.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\csi.rsp
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\vbc.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\Projet_Fin_Formation.dll.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\Projet_Fin_Formation.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\Projet_Fin_Formation.pdb
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\csc.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\csc.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\csc.rsp
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\csi.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\csi.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\csi.rsp
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.AppContext.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Console.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Net.Http.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\vbc.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\vbc.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\vbc.rsp
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\obj\Debug\Projet_Fin_Formation.dll
+C:\Users\Chaima\source\repos\Projet_Fin_Formation()\obj\Debug\Projet_Fin_Formation.pdb
+E:\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+E:\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+E:\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+E:\Projet_Fin_Formation\bin\roslyn\csc.exe
+E:\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+E:\Projet_Fin_Formation\bin\roslyn\csc.rsp
+E:\Projet_Fin_Formation\bin\roslyn\csi.exe
+E:\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+E:\Projet_Fin_Formation\bin\roslyn\csi.rsp
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+E:\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projet_Fin_Formation\bin\roslyn\vbc.exe
+E:\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+E:\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+E:\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+E:\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+E:\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+E:\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+E:\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+E:\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+E:\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\csc.exe
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\csc.rsp
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\csi.exe
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\csi.rsp
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\vbc.exe
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csprojAssemblyReference.cache
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+C:\Users\kandirou\Desktop\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+D:\kfqelhfze\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+D:\kfqelhfze\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\csc.exe
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\csc.rsp
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\csi.exe
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\csi.rsp
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\vbc.exe
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+D:\kfqelhfze\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+D:\kfqelhfze\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kfqelhfze\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kfqelhfze\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+D:\kfqelhfze\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+D:\kfqelhfze\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+D:\kfqelhfze\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+D:\kfqelhfze\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.rsp
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.rsp
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.rsp
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.rsp
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csprojAssemblyReference.cache
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+C:\Users\kandirou\Desktop\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+D:\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+D:\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+D:\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.rsp
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.rsp
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+D:\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+D:\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+D:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+D:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+D:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+D:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+E:\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+E:\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+E:\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.rsp
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.rsp
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+E:\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+E:\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csprojAssemblyReference.cache
+E:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+E:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+E:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+E:\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.rsp
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.rsp
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csprojAssemblyReference.cache
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+C:\Users\kandirou\Desktop\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\Projet_Fin_Formation.pdb
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csc.rsp
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\csi.rsp
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.AppContext.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Console.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Http.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\vbc.rsp
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.AssemblyReference.cache
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CoreCompileInputs.cache
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.csproj.CopyComplete
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.dll
+C:\Users\Chaima\OneDrive - OFPPT\Bureau\pff\projet eff final\Projet_Fin_Formation\obj\Debug\Projet_Fin_Formation.pdb

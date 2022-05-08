@@ -1,0 +1,82 @@
+﻿*
+{
+    margin:0;
+    padding:0px;
+}
+
+body {
+    background-color: #f6f6f6;
+
+}
+#img_aside
+{
+    height:600px
+
+}
+#lock_pic {
+    width: 150px;
+    height: 150px;
+}
+
+#password_toggle {
+    width: 20px;
+    height: 20px;
+
+}
+#login_lbl {
+    color: #005FB8;
+    letter-spacing: 5px;
+    font-weight: Bold;
+}
+.lbl_log {
+    margin-bottom: 10px;
+    letter-spacing: 4px;
+    color: grey;
+    
+}
+#logo
+{
+    height:93px;
+    width: 229px;
+    margin-top:25px;
+    margin-left:30px;
+}
+.margin
+{
+    margin-bottom:20px;
+}
+
+#lock_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#login_panel
+{
+    padding-right:100px;
+}
+.container-fluid {
+    margin-bottom: 120px;
+}
+.nav 
+{
+    margin-right:50px;
+    margin-top:30px;
+}
+.nav-item i{
+    font-size:30px;
+}
+section
+{
+    color:black;
+}
+
+
+#footer {
+    padding-top: 10px;
+    height: 150px;
+    background-color: #436CB1;
+    text-align: center;
+    color: white;
+    letter-spacing: 4px;
+}

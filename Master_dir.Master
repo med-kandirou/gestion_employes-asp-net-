@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master_dir.master.cs" Inherits="Projet_Fin_Formation.Master_dir" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Style/master_style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
+    
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 453px;
+            margin-left: 0px;
+        }
+        .auto-style2 {
+            width: 206px;
+        }
+
+    </style>
+    </head>
+<body>
+ 
+    <div class="container-fluid" id="header">
+        <div class="row">
+            
+            <div class="col-md-7">
+                <p><asp:Image ID="Img_user" runat="server" Height="131px" ImageUrl="~/image/Lock.png" Width="131px" CssClass="img-fluid rounded-circle"/><p>&nbsp; <span><asp:Label id="user_name" runat="server" Text="Label"></asp:Label>  <asp:Label id="user_prenom" runat="server" Text="Label"></asp:Label> </span> </p></p>
+                <p>&nbsp;<span id="role"><asp:Label id="role_user" runat="server" Text="Label"></asp:Label></span></p>
+            </div>
+                <div class="col-md-5 col-sm-1 col-1 text-end" >
+                        <div class="dropdown" id="settings">
+                          <button type="button" class="btn btn-success dropdown-toggle" data-bs-toggle="dropdown">
+                            <i class="bi bi-gear-wide-connected"></i>
+                          </button>
+                          <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Change Mot de passe</a></li>
+                            <li><a class="dropdown-item" href="#">Deconnécter</a></li>
+                          </ul>
+                        </div>
+                 </div>
+            </div>
+    </div>
+
+
+    <div class="container-fluid" id="contenu" >
+        <table class="w-100">
+            <tr>
+              <td class="auto-style2">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            
+                             <asp:HyperLink ID="nav1" CssClass="nav-link" runat="server" NavigateUrl="~/directeur/HomeDirector.aspx"><i class="bi bi-house-door-fill"></i>  Home</asp:HyperLink>
+                        </li>
+                        <li class="nav-item">
+                            <asp:HyperLink ID="nav2" CssClass="nav-link" runat="server" NavigateUrl="~/directeur/Projet_Director.aspx"><i class="bi bi-briefcase-fill"></i>  Projet</asp:HyperLink>
+                        </li>
+                          <li class="nav-item">
+                            <asp:HyperLink ID="nav3" CssClass="nav-link" runat="server" NavigateUrl="~/directeur/Equipes_Director.aspx"><i class="bi bi-people-fill"></i>  equipes</asp:HyperLink>
+                        </li>
+                       <%-- <li class="nav-item">
+                            <asp:HyperLink ID="nav4"  CssClass="nav-link" runat="server" NavigateUrl="#"><i class="bi bi-building"></i>  Entreprise</asp:HyperLink>
+                        </li>--%>
+                        <li class="nav-item">
+                             <asp:HyperLink ID="nav5" CssClass="nav-link" runat="server" NavigateUrl="~/directeur/EmployeList_directeur.aspx"><i class="bi bi-person-fill"></i>  Employes</asp:HyperLink>
+                        </li>
+                  </ul>
+
+                </td>
+                <td>
+                    <form id="form1" runat="server">
+                         <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                           
+                        </asp:ContentPlaceHolder>
+                    </form>
+                </td>
+            </tr>
+        </table>
+   </div>
+   
+
+</body>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+ <script src="Scripts/jquery-3.6.0.js"></script>
+<script src="javaScript/check.js"></script>
+</html>
+
