@@ -1,0 +1,45 @@
+create database Pff
+USE PFF
+
+create table Contrat(Id_Contrat int primary key , CIN varchar(20) ,[Type] varchar(20) check ([type] in ('CDI','CDD')),salaire money,Date_debut_c date,Date_fin_c date);
+
+
+create table Directeur (CIN varchar(20) primary key ,Nom varchar(20),Prenom varchar(20),Date_Nais date,);
+
+create table Chef (CIN varchar(20) primary key ,Nom varchar(20),Prenom varchar(20),Date_Nais date,id_contrat# int,foreign key (id_contrat#) references Contrat(Id_Contrat) on update cascade on delete cascade);
+
+create table employe (CIN varchar(20) primary key ,Nom varchar(20),Prenom varchar(20),Date_Nais date,echelle varchar(20) check (echelle in ('Ingenieur','TS','Technicien','Qualifiant')),id_contrat# int,foreign key (id_contrat#) references Contrat(Id_Contrat)on update cascade on delete cascade);
+
+
+create table Equipe (id_eq int,cin_chef# varchar(20),cin_emp# varchar(20),primary key(id_eq,cin_chef#,cin_emp#),foreign key (cin_chef#) references Chef(CIN) on update cascade on delete cascade,foreign key (cin_emp#) references Employe(CIN) on update no Action on delete no Action);
+
+
+
+create table projet (id_projet int primary key ,id_eq# int ,designation varchar(20), Date_debut_p date,Date_fin_p date);
+
+
+create table Entrep_cible (id_ent_cible int primary key ,Nom_entrep varchar(20),id_projet# int ,adresse varchar(50),foreign key (id_projet#) references projet(id_projet) on update cascade on delete cascade);
+
+
+
+
+
+
+
+create table [Login] (Cin_identifiant varchar(20) primary key , mdp varchar(20),recuperation varchar(20)); 
+
+
+select * from contrat 
+select * from Directeur 
+select * from Chef 
+select  * from employe 
+select * from Equipe
+select * from projet p ,Equipe e where p.id_eq#=e.id_eq  
+select * from Entrep_cible
+select * from Login
+
+
+
+
+
+
